@@ -49,4 +49,5 @@ Depth indicates how much familiarity one character has with another in a Relatio
 * Definitive Superior
 * Established Inferior
 * Romantic Life Partner
+* Parent
 

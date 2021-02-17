@@ -57,3 +57,15 @@ Characters may opt for the very difficult technique of Intriguing, keeping their
 
 The final method of approaching a target is to get someone else - a wingman - approach the target and just bring the character along. This depends on someone being roped in to play the role of the wingman and paying the price of some other approach (usually a Polite Introduction) and allowing the character to play Intriguing technique while ensuring they are seen.
 
+## Seduction
+Seduction consists in a character making themself interesting to a target. Seduction doesn't have to be sexual or even sensual. Characters can seduce someone into becoming their friend or into hiring them.
+
+When Seducing a target, a character will attempt to Reveal Traits the target likes and avoid Revealing Traits the target dislikes.
+
+Learning about a target's likes and dislikes cna be useful, but more often than not, characters don't take the time to do that.
+
+Flirting is just Seduction with the express purpose of initiating a romantic or sexual interaction.
+
+
+## Prompts, Requests and Reactions
+Pleas (Begging), Requests and Suggestions. For Commands and Initiatives, see SocialInteractions__PowerInteractions.md.

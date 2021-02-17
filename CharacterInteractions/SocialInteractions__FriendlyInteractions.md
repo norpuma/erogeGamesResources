@@ -9,6 +9,13 @@ Friendly Interactions most often involves Influencing a partner's Mood and often
 
 Friendly Interactions help change a character's Mood.
 
+The goal Friendly Interactions is one of the following:
+- Put a target in the right state of mind (affecting Mood); this is often a prologue to a Prompt or Request.
+- Change a Belief.
+- Gain information (Key Knowledge or Secret; through Inquiry or Tests).
+- Change the Relationship (usually increasing Depth/Intimacy).
+- Seduction (expose Traits, establish History of Actions).
+
 ## Basics
 Characters are, usually, open to friendly interactions with no requirements.
 
@@ -196,6 +203,16 @@ A character will chose to offer a Spontaneous Revelation when they believe this 
 
 A character will chose to offer a Prompted Revelation after a target has used an Enquiry. The character may not perceive the Enquiry, but if they do, they may chose to lie, creating a false conviction on the target.
 
+* Expose Trait
+- Admit (proudly, humbly)
+- Boast
+- Subtly Mention
+- Openly Mention (proudly, humbly)
+- Demonstrate
+
+#### Tests/Checks
+A character may chose to Test a target to attempt to identify a Trait. This is commonly done through conversation and with the intention of being subtle. Inquirying is a Test with no subtlety.
+
 ### Beguiling Actions
 The following Actions have chances of raising a target's Sympathy towards a character.
 - Smiles
@@ -239,19 +256,12 @@ The following Actions have chances of raising a target's Sympathy towards a char
 * Rave About
 * Ask About
 
-* Expose Trait
-- Admit (proudly, humbly)
-- Boast
-- Subtly Mention
-- Openly Mention (proudly, humbly)
-- Demonstrate
-
 - Small Talk
 - Inquire
 - Intimacy Challenge
 - Expose Trait
 
-###### INTIMACY:
+### INTIMACY:
     # How much the character feels the other knows them and how much more they are willing to reveal.
     # Interacts with Trust. The character will only reveal more about themselves if they trust the other.
     # Intimacy 0+: Talks about impersonal and public-knowledge subjects. The weather or work (if it is not sensitive).
@@ -264,37 +274,34 @@ The following Actions have chances of raising a target's Sympathy towards a char
     # Intimacy 9+: Confesses kinks and taboos.
     # Intimacy 10+: Reveals major key knowledge.
 
-###### Intimacy Levels
+### Familiarity Levels
 Stranger            ->      Introduction        ->      Acquainted
 Acquaintance        ->      Foster              ->      Familiar
 Friend/Enemy        ->      Cultivate           ->      Close
 Confidante          ->                          ->
 
-###### Familiarity Levels
 - Stranger
 - Acquaintance
 - Equal
 - Partner
 - Friend
 - Confidante
-### Familiarity / Intimacy:
-* Level 0: Distant Acquaintance.
-* Level 1: Close Acquaintance.
-* Level 2: Friendly Acquaintance.
-* Level 3: Friend.
-* Level 4: Confidante.
-* Level 5: Life Partner.
-### Adversarial:
+#### Familiarity / Intimacy:
+* Level 0: Stranger
+* Level 1: Distant Acquaintance.
+* Level 2: Close Acquaintance.
+* Level 3: Friendly Acquaintance.
+* Level 4: Friend.
+* Level 5: Confidante.
+* Level 6: Life Partner.
+#### Adversarial:
 * Level 3: Victim; Aggressor/Bully.
-* Level 3: Rival.
-* Level 4: Enemy.
-### Organization Horizontal:
-* Level 1: Colleague.
-* Level 3: Partner.
-* Level 4: Tight Partner.
-
-
-
+* Level 4: Rival.
+* Level 5: Enemy.
+#### Organization Horizontal:
+* Level 2: Colleague.
+* Level 4: Partner.
+* Level 5: Tight Partner.
 
 ##### Intimacy Activities
 - Sincere Confidence (relating a story)
