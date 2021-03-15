@@ -1,0 +1,11 @@
+::Finding Target Character - Short Description
+<!-- Examples:
+     * You find Carrie by the pool. She is reading a book. She tries to ignore you.
+     * You find her in the living room. She is fiddling with her phone. She looks up at you as you approach and smiles.
+-->\
+<<if $protagonist.relationships[$target] !== undefined>><<set _objectPronoun = $protagonist.relationships[$target].targetModel.names.standard>><<else>><<set _objectPronoun = $target.pronouns.object>><</if>>\
+\
+You find _objectPronoun $location.findingAtDescriptor. $target.pronouns.subject is $target.activity.findingAtDescriptor.
+
+::Reaction to Approach - Short Description
+$target.reactonToProtagonistsApproach

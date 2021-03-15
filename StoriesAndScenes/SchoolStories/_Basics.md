@@ -1,0 +1,40 @@
+# References
+- No More Secrets: School relationships. School students templates. Teacher templates.
+- Candid Urban MILFs: School relationships. School students templates. Teacher templates.
+- The Headmaster: School relationships. School students templates. Teacher templates.
+- Ann's School Days: School relationships. School students templates. Teacher templates.
+- Favorite Teacher: 
+- Freeuse High School: 
+- Spank 19 - Detention: For students misbehavior, punishments and art.
+- Become Someone:
+- Chloe18
+- The Sinner: For school interactions; for the party.
+- Being a DIK: College Interactions
+- Family Values: School relationships. School students templates. Teacher templates. Corrupting people at school.
+- Outcast Academy, Voodoo Girls: School relationships. School students templates. Teacher templates.
+- Old School Blaze: School relationships. School students templates. Teacher templates. Out of school relationships. For the party; for the crazy outcast; for the drug dealer.
+- Rogue-Like: Some school relationships. School lodgings.
+- Wife Trainer: Training girls.
+- Big Brother: Corrupting a young, innocent girl; getting control of an abrasive girl. Out of school relationships.
+- Solvalley: Corrupting people at school.
+- House Arrest: School student personalities.
+- Perverted Education: For the submissive. School wimp.
+- Bully: For the submissive.
+- Bastard Made Mom a Sex Slave: Mind controlling moms.
+- Diabolical Dr Diggler: Mind control templates.
+- Deviant Discoveries
+- Hunter's Harem
+- LabRats 1: Corrupting a young, innocent girl; corrupting a motherly woman; corrupting a work colleague (and someone from a lab).
+- Betrayed: For college character interactions.
+- Harem Hotel: For some of the girl's personalities as they are school-age.
+- A Spell for All: School Interactions
+- Something Unlimited: Girl Personalities.
+- House in the Rift: Girl Personalities.
+- Four Elements Trainer: Girl Personalities.
+- Cure My Addiction: Girl Personalities.
+- Love and Sex Second Base: Girl Personalities.
+- Man of the House: Girl Personalities.
+- Because I Love Her: To model the girlfriend and the younger girl sharing the house.
+- Descendo
+- That Girl I Love
+- The Gift Reloaded
