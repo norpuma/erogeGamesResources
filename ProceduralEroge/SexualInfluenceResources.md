@@ -261,6 +261,27 @@
             static THRUST_ROUGH_SELF_VAGINA_WITH_STRAPON= 222   // Toy, Strapon, Thrust, Rough, Crotch, Vagina;     Kate roughly rides Jack's strapon with her pussy.
             static THRUST_ROUGH_SELF_ANUS_WITH_PLUG     = 223   // Toy, Plug, Thrust, Slow, Ass, Anus;              Kate roughly rides Jack's butt-plug with her anus.
 # Psychological Stimulation
+## Exciting elements in dreams:
+- Add a puppy to the dream
+- Add a pony to the dream
+- Add daddy to the dream
+- Add mommy to the dream
+- Add a sports competition to the dream
+- Add visions of underwear to the dream
+- Make school part of the dream
+- Make home part of the dream
+- (humiliation) Add people name calling the dreamer to the dream
+- (bondage) Make the dreamer being hopelessly bound part of the dream
+- Make the beach part of the dream
+- Make sex part of the dream
+- Add a demon to the dream
+- Add an angel to the dream
+- (outdoors) Make the park part of the dream
+- Make the night club part of the dream
+- Make making out part of the dream
+- (power) Add an innocent to the dream
+- (exhibition) Add a stranger witness to the dream
+## Psychological Stimulation List
 SEE_IMPLIED_SHAPE_OF_BREASTS
 SEE_IMPLIED_SHAPE_OF_BIG_BREASTS
 SEE_IMPLIED_SHAPE_OF_SMALL_BREASTS
