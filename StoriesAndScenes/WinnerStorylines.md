@@ -74,6 +74,14 @@ Typical turning points for Winner stories are:
 #### At School
 #### At Office
 
+
+### Winner Seduction Scripts
+#### Winner Seduction
+- Become desirable to them
+- Then deny them
+- Then seduce them
+
+### Winner Scenes
 ### Provocateur Winner Scenes
 * Inducing Emotions
 * Self-Promoting
@@ -117,6 +125,30 @@ Typical turning points for Winner stories are:
 - Lying about their intentions to get an advantage
 - Feigning emotion (e.g.: tears) to get an advantage
 ### Mind-Controlling Winner Scenes
+
+## Reasons to be Desired
+- Money
+- Demonstration of power (cruel to weak)
+- Demonstration of great power (cruel to powerful)
+- Artistic
+- Athletic success
+- Popularity
+- Appearance
+- Protective
+- Helpful
+- Smart
+- Gamer success
+- Generous
+- Nice
+- Daring
+- Academic Success
+### Actions
+- Perform well on the first weekly test and become desirable to a girl with academic shortcomings.
+- Perform well on a basketball competition and become desirable to any girl liking jocks.
+- Perform well at the arcades and become desirable to any girl liking nerds.
+- Perform well at the Hipster Café (either poetry slam or playing the guitar) and become desirable to any girl wanting a sensible or artistic guy.
+- Become popular to become desirable to any girl wanting a popular guy.
+- Be mean to a teacher to become desirable to any girl wanting a bad boy type.
 
 
 

@@ -21,6 +21,18 @@
 - Display weakness
 - Display compassion
 - Lose when confronted to violence, aggressiveness or challenging rivals
+
+
+
+
+I can't have pussy.
+I don't deserve pussy.
+
+Pussy is only for black cocks.
+
+I only see pussy when I am pleasing mistress or one of her friends.
+I only see pussy when preparing her for big black cock.
+
 ## Story Concepts
 Stories are built out of setups, turning points, requirement fulfilling scenes, requirement derived scenes, ending scenes and filler scenes.
 
